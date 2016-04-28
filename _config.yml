@@ -1,7 +1,7 @@
 name: TimberCraft
 favicon: null
-layout_spectrum: 0.746281961677596
-typography_spectrum: 0.380209153983742
+layout_spectrum: 0.44646
+typography_spectrum: 0.6403
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#443635'
+    - '#f5b321'
+    - '#9e7532'
+    - '#a09b98'
   brandStrength: 0.26985871721990407
   lightness: 0.5304859085008502
   saturation: 0.4808209598995745
